@@ -19,7 +19,7 @@
 
  
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/memecandy-LmNwrBhejkK9EFP504" />
+  <img align="right" alt="GIF" src="https://i.redd.it/3afjezknj7p51.gif" />
 
 **About Me!**
 
