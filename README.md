@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Sanskar!</h3>
+<h2 title="hehehe"> Hey 👋, I'm Sanskar!</h2>
 
 <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
