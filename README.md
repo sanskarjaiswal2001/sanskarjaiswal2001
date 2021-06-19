@@ -19,7 +19,7 @@
 
  
 
-  <img align="right" alt="GIF" src="https://i.redd.it/3afjezknj7p51.gif" />
+  <img align="right" alt="GIF" src="https://memeguy.com/photo/444392/ascii-art-rick-astley-" />
 
 **About Me!**
 
