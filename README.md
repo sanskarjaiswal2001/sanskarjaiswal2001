@@ -33,14 +33,13 @@
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://img.icons8.com/nolan/64/python.png"></code>
+<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
+<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
 
+<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
+<code><img height="20" src="<https://img.icons8.com/nolan/96/mysql.png"></code> MySQL
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
 <img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
