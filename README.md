@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanskarjaiswal2001
-- 👀 I’m interested in the latest technology
+- 👀 I’m interested in latest technology
 - 🌱 I’m currently learning Blockchain & Smart Contracts
 - 💞️ I’m looking to collaborate on any project where I can learn more 
 - 📫 How to reach me : Twitter @TitanWithKagune
