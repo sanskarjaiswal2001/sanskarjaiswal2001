@@ -1,13 +1,13 @@
 <h3 title="hehehe"> Hey 👋, I'm Sanskar!</h3>
 
 <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
-  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"" />
+  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/64/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/j.sanskarr/">
-  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/64/instagram-new.png" />
 </a>
 <a href="https://twitter.com/TitanWithKagune">
-  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/64/twitter.png" />
 </a>
 
 
