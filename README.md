@@ -37,7 +37,7 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
-<code><img height="20" src="<https://img.icons8.com/nolan/96/mysql.png"></code> MySQL
+<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
