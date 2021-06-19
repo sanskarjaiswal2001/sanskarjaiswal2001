@@ -1,7 +1,7 @@
 <h3 title="hehehe"> Hey 👋, I'm Sanskar!</h3>
 
 <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
-  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"" />
 </a>
 <a href="https://www.instagram.com/j.sanskarr/">
   <img align="left" alt="Sanskar's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
