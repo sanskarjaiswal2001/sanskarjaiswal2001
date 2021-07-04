@@ -1,13 +1,13 @@
 <h2 title="hehehe"> Hey 👋, I'm Sanskar!</h2>
 
 <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
-  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/j.sanskarr/">
-  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />
 </a>
 <a href="https://twitter.com/TitanWithKagune">
-  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/color/96/000000/twitter--v2.png" />
 </a>
 
 
@@ -33,16 +33,20 @@
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
-<code><img height="20" src="https://img.icons8.com/nolan/96/java-coffee-cup-logo.png"></code> Java
+<code><img height="20" src="https://img.icons8.com/color/96/000000/python--v1.png"></code> Python
+<code><img height="20" src="https://img.icons8.com/fluent/96/000000/ethereum.png"></code> Solidity
+<code><img height="20" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"></code> Java
+<code><img height="20" src="https://img.icons8.com/color/96/000000/flutter.png"></code> Flutter
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
-<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/code.png"></code> VS Code
-<code><img height="20" src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"/></code> Sublime Text
-<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
+<code><img height="20" src="https://img.icons8.com/color/96/000000/javascript--v1.png"></code> Javascript
+<code><img height="20" src="https://img.icons8.com/color/96/000000/html-5--v1.png"></code> HTML
+<code><img height="20" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"></code> C++
+<code><img height="20" src="https://img.icons8.com/color/96/000000/mysql-logo.png"></code> MySQL
+
+<code><img height="20" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"></code> VS Code
+<code><img height="20" src="https://img.icons8.com/fluent/96/000000/sublime-text.png"/></code> Sublime Text
+<code><img height="20" src="https://img.icons8.com/color/96/000000/git.png"></code> GIT
 
 <img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
