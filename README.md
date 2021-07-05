@@ -24,7 +24,8 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
+- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts.
+- <img height="20" src="https://img.icons8.com/fluent/96/000000/ethereum.png"/> I recently wrote my first research paper titled **Blockchain as a service for E-Voting**
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@protonmail.com).
 
