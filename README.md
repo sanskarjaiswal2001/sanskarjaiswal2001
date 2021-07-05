@@ -34,19 +34,19 @@
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://img.icons8.com/color/96/000000/python--v1.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/fluent/96/000000/ethereum.png"></code> Solidity
-<code><img height="20" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"></code> Java
-<code><img height="20" src="https://img.icons8.com/color/96/000000/flutter.png"></code> Flutter
-<code><img height="20" src="https://img.icons8.com/color/96/000000/javascript--v1.png"></code> Javascript
-<code><img height="20" src="https://img.icons8.com/color/96/000000/html-5--v1.png"></code> HTML
-<code><img height="20" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"></code> C++
+<img height="20" src="https://img.icons8.com/color/96/000000/python--v1.png"> Python 
+<img height="20" src="https://img.icons8.com/fluent/96/000000/ethereum.png"> Solidity
+<img height="20" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"> Java
+<img height="20" src="https://img.icons8.com/color/96/000000/flutter.png"> Flutter
+<img height="20" src="https://img.icons8.com/color/96/000000/javascript--v1.png"> Javascript
+<img height="20" src="https://img.icons8.com/color/96/000000/html-5--v1.png"> HTML
 
 
-<code><img height="20" src="https://img.icons8.com/color/96/000000/mysql-logo.png"></code> MySQL
-<code><img height="20" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"></code> VS Code
-<code><img height="20" src="https://img.icons8.com/fluent/96/000000/sublime-text.png"/></code> Sublime Text
-<code><img height="20" src="https://img.icons8.com/color/96/000000/git.png"></code> GIT
+<img height="20" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"> C++
+<img height="20" src="https://img.icons8.com/color/96/000000/mysql-logo.png"> MySQL
+<img height="20" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"> VS Code
+<img height="20" src="https://img.icons8.com/fluent/96/000000/sublime-text.png"/> Sublime Text
+<img height="20" src="https://img.icons8.com/color/96/000000/git.png"> GIT
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true">
