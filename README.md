@@ -24,7 +24,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts.
+- 🌱 I’m currently exploring Data Science & Data Analytics.
 - <img height="20" src="https://img.icons8.com/fluent/96/000000/ethereum.png"/> I recently wrote my first research paper with my team,
 
   titled [**Blockchain as a service for E-Voting**](https://pdfhost.io/v/AjxkE69v._Blockchain_as_a_Service_for_EVoting_pdf.pdf)
