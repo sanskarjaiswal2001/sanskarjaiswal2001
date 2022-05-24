@@ -19,7 +19,7 @@
 
  
 
-  <img align="right" height = "100" width = "100" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  <img align="right" height = "200" width = "200" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 **About Me!**
 
