@@ -29,7 +29,7 @@
 
   titled [**Blockchain as a service for E-Voting**](https://pdfhost.io/v/AjxkE69v._Blockchain_as_a_Service_for_EVoting_pdf.pdf)
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@protonmail.com).
+- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@proton.me).
 
 
 
