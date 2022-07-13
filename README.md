@@ -33,7 +33,7 @@
 
 
 
-**Languages and Tools:**  
+**Languages and Tools worked with:**  
 
 
 <img height="20" src="https://img.icons8.com/color/96/000000/python--v1.png"> Python 
