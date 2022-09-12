@@ -54,3 +54,5 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true">
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=sanskar&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
