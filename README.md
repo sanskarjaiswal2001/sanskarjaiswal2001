@@ -29,7 +29,7 @@
 
   titled [**Blockchain as a service for E-Voting**](https://www.researchgate.net/publication/364340764_Blockchain_as_a_Service_for_E-Voting)
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@proton.me).
+- 📫 Email me at [phoenix2810@proton.me](mailto:phoenix2810@proton.me).
 
 
 
