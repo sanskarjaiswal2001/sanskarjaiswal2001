@@ -23,7 +23,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
+- 👨🏽‍💻 I’m currently an Associate Software Engineer at Betsol.
 - 🌱 I’m currently exploring Smart Contracts along side Flutter.
 - <img height="20" src="https://img.icons8.com/fluent/96/000000/ethereum.png"/> Wrote a conference paper as a team to present in NCCT-ICT,
 
