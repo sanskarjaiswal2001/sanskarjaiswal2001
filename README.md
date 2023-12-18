@@ -24,7 +24,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently an Associate Software Engineer at Betsol.
-- 🌱 I’m currently exploring Smart Contracts along side Flutter.
+- 🌱 I’m currently working on automation of anything and everything using python and other neat stuff.
 - <img height="20" src="https://img.icons8.com/fluent/96/000000/ethereum.png"/> Wrote a conference paper as a team to present in NCCT-ICT,
 
   titled [**Blockchain as a service for E-Voting**](https://www.researchgate.net/publication/364340764_Blockchain_as_a_Service_for_E-Voting)
