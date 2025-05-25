@@ -1,25 +1,27 @@
-<!-- HEADER BANNER -->
+<!-- README.md -->
+
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Sanskar!;Building+cool+things+with+Python%2C+Flutter%2C+and+LLMs" alt="Sanskar Jaiswal - Typing SVG Header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=2E2E38&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Sanskar!;Building+cool+things+with+Python%2C+Flutter%2C+and+LLMs" alt="Sanskar Jaiswal - Typing SVG Header"/>
 </p>
 
-<!-- SOCIAL ICONS -->
+<!-- Social Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2e2e38?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2e2e38" />
+    <img src="https://img.shields.io/badge/LinkedIn-2E2E38?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/TitanWithKagune" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-2e2e38?style=for-the-badge&logo=twitter&logoColor=white&labelColor=2e2e38"/>
+    <img src="https://img.shields.io/badge/Twitter-2E2E38?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/j.sanskarr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-2e2e38?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2e2e38"/>
+    <img src="https://img.shields.io/badge/Instagram-2E2E38?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:phoenix2810@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-2e2e38?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2e2e38"/>
+    <img src="https://img.shields.io/badge/Email-2E2E38?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<!-- SHORT INTRO -->
+<!-- Short Intro -->
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="170" alt="AI animation" />
 </p>
@@ -34,9 +36,9 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-- 🎯 &nbsp;**Current**: Software Engineer @ <b>BETSOL</b>
+- 🎯 &nbsp;**Current**: Software Engineer @ **BETSOL**
 - 🤖 &nbsp;**Focus**: LLMs, Retrieval-Augmented Generation (RAG), GenAI
 - 🛠️ &nbsp;**Strengths**: End-to-end automation, backend, systems design
 - 🚀 &nbsp;**Tech**: Python, Java, Flutter, Firebase, React, Solidity, SQL
@@ -47,7 +49,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,flutter,html,css,solidity,firebase,mysql,git,vscode,linux,docker,bash,aws" height="40" />
@@ -59,30 +61,33 @@
 
 ---
 
-<h2 align="center">📝 My Blog</h2>
+## 📝 My Blog
 
 <p align="center">
   <a href="https://sanskarjaiswal.hashnode.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-Blog-2962ff?style=for-the-badge&logo=hashnode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 </p>
 
 <div align="center">
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?w=128&h=128&fit=crop&crop=faces&auto=compress" alt="Hashnode Logo" width="36" />
   <br>
-  <span style="font-family: Inter, sans-serif; color: #2e2e38; font-size: 17px;">
+  <span style="font-family: Inter, sans-serif; color: #2E2E38; font-size: 17px;">
     <b>Check out my latest thoughts on tech, AI, and software:</b>
     <br>
-    <a href="https://sanskarjaiswal.hashnode.dev" target="_blank" style="color:#2962ff;font-weight:600;">
+    <a href="https://sanskarjaiswal.hashnode.dev" target="_blank" style="color:#2962FF;font-weight:600;">
       sanskarjaiswal.hashnode.dev
     </a>
   </span>
   <br>
+  <span style="color:#7E7E87; font-size: 14px;">
+    ✨ I write about automation, LLMs, backend, systems, and more.
+  </span>
 </div>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false" height="170" />
@@ -91,26 +96,30 @@
 
 ---
 
-<h2 align="center">🌐 Connect & Reach Out</h2>
+## 🌐 Connect & Reach Out
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2e2e38?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-2E2E38?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://twitter.com/TitanWithKagune" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-2e2e38?style=flat-square&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-2E2E38?style=flat-square&logo=twitter&logoColor=white"/>
   </a>
   <a href="mailto:phoenix2810@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-2e2e38?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-2E2E38?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/j.sanskarr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-2e2e38?style=flat-square&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-2E2E38?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sanskar&label=Profile%20Views&color=36BCF7&icon=5&pretty=true" alt="profile views"/>
 </p>
 
 ---
 
-<!-- BOTTOM FOOTER -->
+<!-- Footer -->
 <p align="center">
-  <sub><i>Let’s build, and make a little magic with code ✨</i></sub>
+  <sub><i>Let’s automate, build, and make a little magic with code ✨</i></sub>
 </p>
