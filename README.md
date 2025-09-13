@@ -64,7 +64,7 @@
 ## 📝 My Blog
 
 <p align="center">
-  <a href="https://sanskarjaiswal.hashnode.dev" target="_blank">
+  <a href="https://blog.sanskarjaiswal.dev" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 </p>
@@ -75,8 +75,8 @@
   <span style="font-family: Inter, sans-serif; color: #2E2E38; font-size: 17px;">
     <b>Check out my latest thoughts on tech, AI, and software:</b>
     <br>
-    <a href="https://sanskarjaiswal.hashnode.dev" target="_blank" style="color:#2962FF;font-weight:600;">
-      sanskarjaiswal.hashnode.dev
+    <a href="https://blog.sanskarjaiswal.dev" target="_blank" style="color:#2962FF;font-weight:600;">
+      blog.sanskarjaiswal.dev
     </a>
   </span>
   <br>
