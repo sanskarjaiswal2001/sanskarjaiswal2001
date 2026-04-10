@@ -1,125 +1,76 @@
-<!-- README.md -->
-
-<!-- Header Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=2E2E38&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Sanskar!;Building+cool+things+with+Python%2C+Flutter%2C+and+LLMs" alt="Sanskar Jaiswal - Typing SVG Header"/>
-</p>
-
-<!-- Social Icons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2E2E38?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/TitanWithKagune" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-2E2E38?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/j.sanskarr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-2E2E38?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:phoenix2810@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-2E2E38?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<!-- Short Intro -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="170" alt="AI animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Sanskar+Jaiswal;Software+Engineer+%40+BETSOL;Python+%7C+LLMs+%7C+Automation" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <samp>
-    <b>Software Engineer</b> @ BETSOL &nbsp;|&nbsp; <b>Automation Enthusiast</b> &nbsp;|&nbsp; <b>GenAI Explorer</b>
-    <br>
-    <i>Crafting impactful systems with code, creativity, and curiosity.</i>
-  </samp>
+  <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/TitanWithKagune"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://blog.sanskarjaiswal.dev"><img src="https://img.shields.io/badge/-Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white"/></a>
+  <a href="mailto:phoenix2810@proton.me"><img src="https://img.shields.io/badge/-Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### About
 
-- 🎯 &nbsp;**Current**: Software Engineer @ **BETSOL**
-- 🤖 &nbsp;**Focus**: LLMs, Retrieval-Augmented Generation (RAG), GenAI
-- 🛠️ &nbsp;**Strengths**: End-to-end automation, backend, systems design
-- 🚀 &nbsp;**Tech**: Python, Java, Flutter, Firebase, React, Solidity, SQL
-- 📄 &nbsp;**Paper**: [Blockchain as a Service for E-Voting](https://www.researchgate.net/publication/364340764_Blockchain_as_a_Service_for_E-Voting) @ NCCT-ICT
-- 🌱 &nbsp;**Learning**: Distributed AI, efficient vector search, cross-platform apps
-- 🗣️ &nbsp;**Open to**: Collaborations, freelance, mentoring, tech discussions!
-- 💌 &nbsp;**Contact**: [phoenix2810@proton.me](mailto:phoenix2810@proton.me)
+Software Engineer at **BETSOL**, working across Python backends, cloud automation (Azure), and GenAI integrations. I like building things that remove manual work - health check automations, RAG pipelines, internal tooling.
+
+Outside of work: self-hosted infra on Fedora Server, homelab tinkering, and going deep on local LLMs.
+
+**Published**: [Blockchain as a Service for E-Voting](https://www.researchgate.net/publication/364340764_Blockchain_as_a_Service_for_E-Voting) - NCCT-ICT
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### Currently
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,flutter,html,css,solidity,firebase,mysql,git,vscode,linux,docker,bash,aws" height="40" />
-</p>
+**Work**
+- &nbsp;Agent and Tools Development - **Python + Claude + ACP + MCP**
+- &nbsp;Prepping for **Azure AI Associate** certification
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanskarjaiswal2001&theme=tokyonight" width="80%"/>
-</p>
-
----
-
-## 📝 My Blog
-
-<p align="center">
-  <a href="https://blog.sanskarjaiswal.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?w=128&h=128&fit=crop&crop=faces&auto=compress" alt="Hashnode Logo" width="36" />
-  <br>
-  <span style="font-family: Inter, sans-serif; color: #2E2E38; font-size: 17px;">
-    <b>Check out my latest thoughts on tech, AI, and software:</b>
-    <br>
-    <a href="https://blog.sanskarjaiswal.dev" target="_blank" style="color:#2962FF;font-weight:600;">
-      blog.sanskarjaiswal.dev
-    </a>
-  </span>
-  <br>
-  <span style="color:#7E7E87; font-size: 14px;">
-    ✨ I write about automation, LLMs, backend, systems, and more.
-  </span>
-</div>
+**Research + Personal**
+- &nbsp;Exploring AI dev tooling - **Claude Code**, **Zed + ACP**, agentic workflows
+- &nbsp;Homelab on **Fedora** - self-hosted media & everything nice
+- &nbsp;Experimenting with local LLMs, RAG pipelines, and MCP integrations
 
 ---
 
-## 📈 GitHub Stats
+### Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,flutter,firebase,docker,linux,bash,git,azure,aws,mysql,vscode" height="36" />
 </p>
+
+<details>
+<summary><b>More context</b></summary>
+<br>
+
+| Domain | Tools |
+|---|---|
+| **Languages** | Python, Java, JavaScript, C++, Dart, Solidity |
+| **Frontend** | React, Flutter, HTML/CSS |
+| **Backend & Infra** | Azure Functions, Firebase, Docker, Nginx |
+| **Data** | SQL, Dataverse, Vector DBs |
+| **AI/ML** | LangChain, RAG pipelines, local LLMs |
+| **OS & Tooling** | Arch Linux (Omarchy), zsh, Tailscale, Stremio server |
+
+</details>
 
 ---
 
-## 🌐 Connect & Reach Out
+### Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2E2E38?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/TitanWithKagune" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-2E2E38?style=flat-square&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:phoenix2810@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-2E2E38?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/j.sanskarr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-2E2E38?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=sanskarjaiswal2001&theme=github-dark-blue&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sanskar&label=Profile%20Views&color=36BCF7&icon=5&pretty=true" alt="profile views"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanskarjaiswal2001&theme=github_dark" height="160"/>
 </p>
 
 ---
 
-<!-- Footer -->
 <p align="center">
-  <sub><i>Let’s automate, build, and make a little magic with code ✨</i></sub>
+  <sub>Let's build something that didn't exist yesterday.</sub>
 </p>
