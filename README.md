@@ -1,5 +1,9 @@
 <!-- Header -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Sanskar+Jaiswal;Software+Engineer+%40+BETSOL;Python+%7C+LLMs+%7C+Automation" alt="Typing SVG"/>
 </p>
 
@@ -69,8 +73,19 @@ Outside of work: self-hosted infra on Fedora Server, homelab tinkering, and goin
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanskarjaiswal2001&theme=github_dark" height="160"/>
 </p>
 
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarjaiswal2001&theme=github-compact&hide_border=true&area=true" width="95%"/>
+</p>
+
 ---
 
+<!-- Random Dev Quote -->
 <p align="center">
-  <sub>Let's build something that didn't exist yesterday.</sub>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=churchill&font=default" width="500"/>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
 </p>
