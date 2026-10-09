@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sanskar Jaiswal&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  : 485, Total PRs: 15, Total Issues: 1, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 7, Total Commits  : 485, Total PRs: 15, Total Issues: 2, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 203.24682506795227;
+        stroke-dashoffset: 202.68977250500143;
       }
     }
   
@@ -200,7 +200,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >1</text>
+      >2</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
